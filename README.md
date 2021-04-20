@@ -1,8 +1,8 @@
 ### Hi there 👋
 <br /> <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelkhazenti&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aelkhazenti&show_icons=true&theme=onedark)
 <br /> <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aelkhazenti&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aelkhazenti&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **aelkhazenti/aelkhazenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
